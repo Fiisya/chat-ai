@@ -2,7 +2,7 @@
 **Website Chat AI Modern dengan Fitur Gokil**  
 
 ![Preview CF Chat AI](./assets/web.png)
-https://api.alfixd.my.id/api/llama-3.3-70b-versatile?content=
+*[🔥 Live Demo](https://chat-ai-alpik.vercel.app/)*  
 
 ---
 
